@@ -1,0 +1,16 @@
+recurssion function:
+a function called to itself is called as recurssive function
+by default a recurssion function execution falls under infinity loop in order to successfully execute recurssion a condition is must it uses seperate memory locations for all its local variable in each recurssion call. it uses stack memory to store intermediate physics. these are used in replacement of loops.
+
+LAMDA FUNCTIONS:
+function donot have name 
+macro files #define in c language.
+lambda function is a small anonymus function.
+a lambda function can take any number of arguements. but can only have one expression.
+syntax:
+lambda  arguements : expression
+the expression is executed and result is verfied.
+lambda functions are better used as inner functions.
+
+LIST COMPREHENSION:
+list comprehension offers a shorter syntax when you want to create any list based on the values of an existing list 
